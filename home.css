@@ -7,6 +7,11 @@ body {
     justify-content: center;
     height: 100vh;
     font-family: Arial, sans-serif;
+    background-image: url('https://img1.etsystatic.com/028/0/5644885/il_570xN.566472671_ka10.jpg');
+    background-size: cover;       /* cover full screen */
+    background-position: center;  /* center image */
+    background-repeat: no-repeat;
+    position: relative;
 }
 
 .center-content {
